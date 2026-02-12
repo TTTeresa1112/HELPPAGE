@@ -52,7 +52,7 @@ export default defineThemeConfig({
       {
         text: 'Proofreading Center',
         collapsed: false,
-        items: ['proof/proof.md', 'proof/author.md'] // 对应 docs/guide/proof.md
+        items: ['proof/proof.md'] // 对应 docs/guide/proof.md
       },
     ] },
   ],
