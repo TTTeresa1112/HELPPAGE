@@ -98,7 +98,7 @@ export default defineThemeConfig({
     navbar: [
       { text: 'Help Center', link: '/guide/proof/proof.md' },
       {
-        text: 'Reviewer System',
+        text: 'ARES RE System',
         badge: {
           text: 'ARES',
           color: '#1e88e5',
@@ -106,7 +106,7 @@ export default defineThemeConfig({
         link: 'https://www.aressystem.com/',
       },
       { 
-        text: 'Management System',
+        text: 'ARES MS System',
         badge: {
           text: 'ARES',
           color: '#1e88e5',
